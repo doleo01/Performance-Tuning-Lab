@@ -1,7 +1,7 @@
 # Performance Tuning Lab
 <img width="1024" height="338" alt="image" src="https://github.com/user-attachments/assets/80a89cd0-395f-46a6-98ca-a9614a3f563a" />
 
-I created an optimaze query lab. In this case, i made it this project to practice my skills in improve query performance.
+I created this query optimization lab to practice and improve my SQL Server performance tuning skills. The project focuses on analyzing execution plans, optimizing queries, creating indexes, reducing logical reads, and measuring performance improvements before and after each optimization.
 
 ## Features
 
